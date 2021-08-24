@@ -1,50 +1,32 @@
-## Nombre de proyecto
+## La Microbiota intestinal ¿un órgano de nuestro cuerpo? 
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
+### Introducción 
+Durante el presente trabajo se pretende abordar la función, composición y localización de la microbiota intestinal, dando respuesta a la pregunta ¿la microbiota intestinal es un órgano?. Así mismo, se mencionará y explicará las importancias de la microbiota. Mientras se explica lo anterior, se irá haciendo una relación con el objetivo de desarrollo sostenible número 3, de salud y bienestar, dando un contexto claro y fácil de comprender. De igual forma, todo lo visto durante las sesiones del club, estuvieron en completo relación con el tema investigado pues ayudó a tener una mejor comprensión del tema. 
 
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
+### Metodología
+Para la elaboración de dicho trabajo se enfrentó a un proceso de pasos para la realización, desde estar presente en las sesiones para comprender el contexto del tema, ir adquiriendo conocimientos sobre temas de la microbiología, medicamentos, virus, bacterias, entre otras cosas. Ayudando así a obtener un lenguaje más técnico y poder nuevos conceptos. 
+Después de conocer el tema para la investigación, se introdujo a una búsqueda exhaustiva del tema abarcando lo que es, su función, importancia, etc, en páginas especializadas, artículos científicos y libros confiables para lograr recaudar la información más confiable y correcta posible. 
+	Posteriormente, se inició el análisis del tema e información, descriminación y selección del mismo para empezar con la redacción y dar respuesta a lo antes planteado. Finalmente, se realizó el producto final, al video se agregó información no mencionada en el producto escrito pero teniendo diferentes enfoques para una mayor comprensión. 
 
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+### Resultados:
 
-### Introducción
+Para introducirnos al tema, es necesario primero mencionar qué es la microbiota, la cual es una comunidad de microorganismos vivos que residen en el intestino. De acuerdo con Salinas (2013) la microbiota es una de las zonas más pobladas del cuerpo humano por la gran cantidad de microorganismos que viven, de igual forma, después de su formación en el cuerpo, si se llegará a producir alguna modificación podría conducir a serias enfermedades. 
+	La microbiota se desarrolla después del nacimiento del ser, pues antes de nacer se encuentra estirl pues el lumen intestinal es estéril y tiene una baja tensión de oxígeno a través de la placenta. Al momento de nacer, el recién nacido ‘’comienza a tener una flora a partir de la microbiota fecal materna; las primeras bacterias que llegan son enterobacterias microaerófilas, las cuales consumen el escaso oxígeno restante en el lumen intestinal y producen un ambiente favorable para el desarrollo de los anaerobios’’ (Salinas, 2013, p.6).  Que a diferencia de los niños que nacieron por cesárea, obtienen los primeros microorganismos por el aire o el equipo médico. 
+El intestino al no ser solo un órgano de absorción, sino también es relevante para la actividad del sistema inmunológico y los mecanismos de protección del cuerpo. Por lo que la interacción del ser humano y la microbiota  intestinal tiene funciones importantes como el desarrollo del sistema inmunitario adaptativo, funciona defensiva de barrera, lo que quiere decir que cuando la microbiota está en equilibrio, no permite la multiplicación de patógenos y el desarrollo de patologías gastrointestinales. También metaboliza los nutrientes, sintetiza las proteínas y modula el crecimiento y diferenciación de células epiteliales. 
+Existen un conjunto de cosas que pueden afectar la microbiota como ‘’la carga microbiana del ambiente,estrés, consumo de agua clorada, laxantes, antiácidos, la administración de antibiótico impacta en forma considerable el equilibrio de la microbiota intestinal reduciendo drásticamente las poblaciones dominantes y favoreciendo la emergencia de patógenos oportunistas, también afectan la radio y quimioterapia’’ (Salinas, 2013, p.6). 
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+### Conclusiones: 
+Para finalizar, es necesario dejar en claro que ‘’la microbiota intestinal cumple una importante función en la salud: estimula el sistema inmunitario, protege contra la invasión de agentes patógenos y obtiene energía de los nutrientes.’’ (Baisan, Valdés, Miyar, Linares Martinez, 2015). Por lo que es importante tener buenos hábitos, un buen estilo de vida y no someterse a factores que propician el estrés o altos niveles de tensión. Así mismo, se puede decir que la microbiota no es un órgano, sino, un conjunto de microorganismos que habitan en el cuerpo. 
 
-### Métodología
+### Referencias: 
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
-
-### Resultados
-
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
-
-
-### Conclusiones
-
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+Bassain, J., Váldes, M., Miyan, E., Linares, H. y Martinez, A. (2015). Alteraciones en la microbiota intestinal por la dieta y su repercusión en la génesis de la obesidad. Vol 19. (12)(6033-6043). https://www.redalyc.org/articulo.oa?id=368445185013 
+Salinas, B. (2013). Microbiota intestinal: la clave de la salud. Salus. Vol.17(2) (5-6). https://www.redalyc.org/pdf/3759/375933973002.pdf
+![image](https://user-images.githubusercontent.com/33070775/130552082-9ce6bd86-526c-4b1c-b3a4-d77e6e631303.png)
 
 ### Video
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
- 
-### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+https://youtu.be/0ncckFP09t4
 
+### Autor
+Marianna Enriqueta Gutierrez Hernandez
