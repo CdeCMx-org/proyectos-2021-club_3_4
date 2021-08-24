@@ -20,8 +20,9 @@ Para finalizar, es necesario dejar en claro que ‘’la microbiota intestinal c
 
 ### Referencias: 
 
-Bassain, J., Váldes, M., Miyan, E., Linares, H. y Martinez, A. (2015). Alteraciones en la microbiota intestinal por la dieta y su repercusión en la génesis de la obesidad. Vol 19. (12)(6033-6043). https://www.redalyc.org/articulo.oa?id=368445185013 
-Salinas, B. (2013). Microbiota intestinal: la clave de la salud. Salus. Vol.17(2) (5-6). https://www.redalyc.org/pdf/3759/375933973002.pdf
+* Bassain, J., Váldes, M., Miyan, E., Linares, H. y Martinez, A. (2015). Alteraciones en la microbiota intestinal por la dieta y su repercusión en la génesis de la obesidad. Vol 19. (12)(6033-6043). https://www.redalyc.org/articulo.oa?id=368445185013 
+
+* Salinas, B. (2013). Microbiota intestinal: la clave de la salud. Salus. Vol.17(2) (5-6). https://www.redalyc.org/pdf/3759/375933973002.pdf
 
 
 ### Video
